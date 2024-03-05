@@ -25,4 +25,4 @@ git clone https://github.com/HustLion/mentohust.git package/mentohust
 git clone https://github.com/lucikap/luci-app-ua2f.git package/luci-app-ua2f
 git clone https://github.com/sbwml/luci-app-mentohust.git package/luci-app-mentohust
 git clone https://github.com/BoringCat/luci-app-minieap.git package/luci-app-minieap
-git clone https://github.com/lucikap/luci-app-brukamen.git package/luci-app-brukamen
+git clone https://github.com/lucikap/luci-app-nettask.git package/luci-app-nettest
